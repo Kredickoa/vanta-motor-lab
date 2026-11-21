@@ -2,9 +2,9 @@
 
 A premium automotive detailing studio concept with a restrained editorial design. Built as a frontend portfolio project to explore product presentation, motion and visual storytelling.
 
-[![Watch the demo](demo/preview.jpg)](https://github.com/Kredickoa/vanta-motor-lab/raw/refs/heads/main/demo/demo.mp4)
+## Demo
 
-[Watch the demo video](https://github.com/Kredickoa/vanta-motor-lab/raw/refs/heads/main/demo/demo.mp4)
+https://github.com/user-attachments/assets/f802b2f4-3101-498a-b46a-668339ed8288
 
 ## Highlights
 
